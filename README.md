@@ -1,7 +1,7 @@
 <!-- TÍTULO E SAUDAÇÃO -->
 <h1 align="center">Hello! I'm Gabriel Baroni</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&duration=5500&lines=Welcome_To_My_GitHub.html;Guy_Who_Love_To_Code.py;Interest_In_Technologies.js" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%332CF&size=25&center=true&vCenter=true&duration=5500&lines=Welcome_To_My_GitHub.html;Guy_Who_Love_To_Code.py;Interest_In_Technologies.js" alt="Typing SVG">
 </p>
 
 <!-- SOBRE MIM -->
@@ -34,6 +34,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 
   <!-- Adicione mais badges de tecnologias que você utiliza -->
