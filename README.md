@@ -1,20 +1,11 @@
 <!-- TÍTULO E SAUDAÇÃO -->
 <h1 align="center">Hello! I'm Gabriel Baroni</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&lines=Welcome_To_My_GitHub.html;Guy_Who_Love_To_Code.py;Interest_in_technologies.js" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&duration=5500&lines=Welcome_To_My_GitHub.html;Guy_Who_Love_To_Code.py;Interest_in_technologies.js" alt="Typing SVG">
 </p>
 
 <!-- SOBRE MIM -->
 ## Sobre mim
-
-- 🔭 Atualmente estou trabalhando em **[nome do projeto atual]**.
-- 🌱 Estou aprendendo **[tecnologias que você está aprendendo]**.
-- 👯 Estou buscando colaborar em projetos **Open Source**.
-- 💬 Pergunte-me sobre **Desenvolvimento Web, APIs, Node.js, Python...**.
-- ⚡ Curiosidade: **[fato interessante sobre você]**.
-
----
-
 <!-- STATUS E ESTATÍSTICAS DO GITHUB -->
 ## 📊 Minhas Estatísticas no GitHub
 
@@ -68,16 +59,13 @@
 ## 📫 Como me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/">
+  <a href="https://www.linkedin.com/in/Gabriel Baroni/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:gdepaulabaroni@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/seu-usuario-twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/seu-usuario-github">
+  <a href="https://github.com/Gabriel-Baroni">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
