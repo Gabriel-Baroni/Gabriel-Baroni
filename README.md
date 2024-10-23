@@ -54,7 +54,7 @@
 ## 📫 How to find me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Gabriel-Baroni/">
+  <a href="https://www.linkedin.com/in/gabriel-baroni-32b55a2b5/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gdepaulabaroni@gmail.com">
