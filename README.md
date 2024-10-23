@@ -1,13 +1,18 @@
 <!-- TÍTULO E SAUDAÇÃO -->
-<h1 align="center">Hello! I'm Gabriel Baroni</h1>
+<h1 align="center">Hello there! I'm Gabriel Baroni :)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6000&lines=Welcome_To_My_GitHub.html;Guy_Who_Love_To_Code.py;Interest_In_Technologies.js" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6500&lines=Welcome_To_My_GitHub.html;Guy_Who_Love_To_Code.py;Interest_In_Technologies.dart" alt="Typing SVG">
 </p>
 
 <!-- SOBRE MIM -->
-## Sobre mim
+## ✋About me
+- 📖 `Education:` Computer Technician Integrated into High School at IFSP - Jacareí Campus (2022-Present). 
+- 🗞️ `Certificates:` [Click here to see my certificates](https://github.com/Gabriel-Baroni/Certificados-)
+- 🔍 `Study focus:` Improving general knowledge of software engineering, databases, artificial intelligence and web development.
+- 🎯 `Objective`: Becoming a great developer and being able to make a living from coding one day. 
+
 <!-- STATUS E ESTATÍSTICAS DO GITHUB -->
-## 📊 Minhas Estatísticas no GitHub
+## 📊 My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
@@ -21,7 +26,7 @@
 ---
 
 <!-- LINGUAGENS E FERRAMENTAS -->
-## 🛠️ Linguagens e Ferramentas
+## 🛠️ Languages ​​and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -44,21 +49,9 @@
 ---
 
 <!-- PROJETOS EM DESTAQUE -->
-## 🚀 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/seu-usuario-github/nome-do-projeto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario-github&repo=nome-do-projeto&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/seu-usuario-github/outro-projeto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seu-usuario-github&repo=outro-projeto&theme=tokyonight" />
-  </a>
-</p>
-
----
 
 <!-- CONTATOS E REDES SOCIAIS -->
-## 📫 Como me encontrar
+## 📫 How to find me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Gabriel Baroni/">
