@@ -1,7 +1,7 @@
 <!-- TÍTULO E SAUDAÇÃO -->
 <h1 align="center">Hello! I'm Gabriel Baroni</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%332CF&size=25&center=true&vCenter=true&duration=5500&lines=Welcome_To_My_GitHub.html;Guy_Who_Love_To_Code.py;Interest_In_Technologies.js" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6000&lines=Welcome_To_My_GitHub.html;Guy_Who_Love_To_Code.py;Interest_In_Technologies.js" alt="Typing SVG">
 </p>
 
 <!-- SOBRE MIM -->
@@ -10,12 +10,12 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&langs_count=7&theme=react"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Baroni&theme=tokyonight" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Baroni&theme=react" alt="GitHub Streak Stats">
 </p>
 
 ---
