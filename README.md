@@ -19,10 +19,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&langs_count=7&theme=react"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Baroni&theme=react" alt="GitHub Streak Stats">
-</p>
-
 ---
 
 <!-- LINGUAGENS E FERRAMENTAS -->
