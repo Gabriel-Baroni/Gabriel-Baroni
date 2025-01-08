@@ -1,6 +1,7 @@
 <!-- TÍTULO E SAUDAÇÃO -->
 <h1 align="center">Hello there! I'm Gabriel Baroni :)</h1>
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6500&lines=Welcome_To_My_GitHub.html;Guy_Who_Love_To_Code.py;Always_learning.dart" alt="Typing SVG">
 </p>
 
