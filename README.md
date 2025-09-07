@@ -4,19 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6500&lines=Welcome_To_My_GitHub.py;Guy_Who_Love_To_Code.js;Always_learning.dart" alt="Typing SVG">
 </p>
 
-<table align="center" width="80%">
-  <tr>
-    <td width="60" style="border:none; padding:10px;">
-      <a href="https://github.com/Gabriel-Baroni">
-        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/quote-left.svg#gh-light-mode-only" width="60" alt="Quote Icon">
-        <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/quote-left-white.svg#gh-dark-mode-only" width="60" alt="Quote Icon">
-      </a>
-    </td>
-    <td style="border:none;">
-      <i>"We are a way for the cosmos to know itself."</i><br>– Carl Sagan
-    </td>
-  </tr>
-</table>
+> ```text
+> We are a way for the cosmos to know itself.
+> ```
+> <p align="right"><i>– Carl Sagan</i></p>
+
 
 ---
 
