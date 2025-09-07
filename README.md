@@ -1,7 +1,7 @@
 <!-- TÍTULO E SAUDAÇÃO -->
 <h1 align="center">Hello there! I'm Gabriel Baroni :)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6500&lines=Welcome_To_My_GitHub.html;Guy_Who_Love_To_Code.py;Always_learning.dart" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6500&lines=Welcome_To_My_GitHub.py;Guy_Who_Love_To_Code.js;Always_learning.dart" alt="Typing SVG">
 </p>
 
 <!-- SOBRE MIM -->
