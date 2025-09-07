@@ -4,7 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6500&lines=Welcome_To_My_GitHub.py;Guy_Who_Love_To_Code.js;Always_learning.dart" alt="Typing SVG">
 </p>
 
-> "We are a way for the cosmos to know itself." - Carl Sagan
+<table align="center" width="80%">
+  <tr>
+    <td width="20" style="border:none; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/FortAwesome/Font-Awesome@6.x/svgs/solid/quote-left.svg" width="30" alt="Quote Icon">
+    </td>
+    <td style="border:none;">
+      <i>"We are a way for the cosmos to know itself."</i><br>– Carl Sagan
+    </td>
+  </tr>
+</table>
 
 ---
 
