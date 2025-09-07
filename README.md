@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6500&lines=Welcome_To_My_GitHub.py;Guy_Who_Love_To_Code.js;Always_learning.dart" alt="Typing SVG">
 </p>
 
- ```text
- We are a way for the cosmos to know itself.
- ```
- <p align="right"><i>– Carl Sagan</i></p>
-
 ---
 
 ## ✋ About Me
@@ -17,6 +12,13 @@
 - 🔍 **Study focus:** Improving general knowledge of software engineering, databases, artificial intelligence and web development.
 - 🎯 **Objective:** Becoming a great developer and being able to make a living from coding one day.
 
+  <br>
+ ```text
+ We are a way for the cosmos to know itself.
+ ```
+ <p align="right"><i>– Carl Sagan</i></p>
+
+ 
 ---
 
 ## 📊 My GitHub Stats
