@@ -4,33 +4,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6500&lines=Welcome_To_My_GitHub.py;Guy_Who_Love_To_Code.js;Always_learning.dart" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabriel-Baroni&label=Profile%20views&color=0e75b6&style=flat" alt="visualizações do perfil" />
-</p>
+> "We are a way for the cosmos to know itself." - Carl Sagan
 
 ---
 
-## ✋ Sobre Mim
-- 📖 **Formação:** Técnico em Informática Integrado ao Ensino Médio no IFSP - Câmpus Jacareí (2022-Presente).
-- 🗞️ **Certificados:** [Clique aqui para ver meus certificados](https://github.com/Gabriel-Baroni/Certificados-)
-- 🔍 **Foco de estudo:** Aprimorar conhecimentos gerais em engenharia de software, bancos de dados, inteligência artificial e desenvolvimento web.
-- 🎯 **Objetivo:** Tornar-me um ótimo desenvolvedor e poder viver de programação um dia.
+## ✋ About Me
+- 📖 **Education:** Computer Technician Integrated into High School at IFSP - Jacareí Campus (2022-Present).
+- 🗞️ **Certificates:** [Click here to see my certificates](https://github.com/Gabriel-Baroni/Certificados-)
+- 🔍 **Study focus:** Improving general knowledge of software engineering, databases, artificial intelligence and web development.
+- 🎯 **Objective:** Becoming a great developer and being able to make a living from coding one day.
 
 ---
 
-## 📊 Minhas Estatísticas do GitHub
+## 📊 My GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&langs_count=7&theme=react"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Baroni&theme=gruvbox&row=1&column=7" alt="Gabriel Baroni's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Baroni&theme=nord&row=1&column=7&margin-w=15" alt="Gabriel Baroni's Trophies" />
 </p>
 
 ---
 
-## 🛠️ Linguagens e Ferramentas
+## 🛠️ Languages and Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,19 +38,16 @@
 
 ---
 
-## ✨ Meus Projetos em Destaque
+## ✨ My Featured Projects
 <p align="center">
-  <a href="https://github.com/Gabriel-Baroni/NOME-DO-PROJETO-1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Baroni&repo=NOME-DO-PROJETO-1&theme=react" />
-  </a>
-  <a href="https://github.com/Gabriel-Baroni/NOME-DO-PROJETO-2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Baroni&repo=NOME-DO-PROJETO-2&theme=react" />
+  <a href="https://github.com/Gabriel-Baroni/Bem-Aprendi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Baroni&repo=Bem-Aprendi&theme=react" />
   </a>
 </p>
 
 ---
 
-## 📫 Como me encontrar
+## 📫 How to Find Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-de-paula-baroni-32b55a2b5/" target="_blank">
@@ -62,6 +57,5 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 
