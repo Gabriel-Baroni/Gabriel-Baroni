@@ -1,76 +1,67 @@
-<!-- TÍTULO E SAUDAÇÃO -->
 <h1 align="center">Hello there! I'm Gabriel Baroni :)</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6500&lines=Welcome_To_My_GitHub.py;Guy_Who_Love_To_Code.js;Always_learning.dart" alt="Typing SVG">
 </p>
 
-<!-- SOBRE MIM -->
-## ✋About me
-- 📖 `Education:` Computer Technician Integrated into High School at IFSP - Jacareí Campus (2022-Present). 
-- 🗞️ `Certificates:` [Click here to see my certificates](https://github.com/Gabriel-Baroni/Certificados-)
-- 🔍 `Study focus:` Improving general knowledge of software engineering, databases, artificial intelligence and web development.
-- 🎯 `Objective`: Becoming a great developer and being able to make a living from coding one day. 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabriel-Baroni&label=Profile%20views&color=0e75b6&style=flat" alt="visualizações do perfil" />
+</p>
 
-<!-- STATUS E ESTATÍSTICAS DO GITHUB -->
-## 📊 My GitHub Stats
+---
+
+## ✋ Sobre Mim
+- 📖 **Formação:** Técnico em Informática Integrado ao Ensino Médio no IFSP - Câmpus Jacareí (2022-Presente).
+- 🗞️ **Certificados:** [Clique aqui para ver meus certificados](https://github.com/Gabriel-Baroni/Certificados-)
+- 🔍 **Foco de estudo:** Aprimorar conhecimentos gerais em engenharia de software, bancos de dados, inteligência artificial e desenvolvimento web.
+- 🎯 **Objetivo:** Tornar-me um ótimo desenvolvedor e poder viver de programação um dia.
+
+---
+
+## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&langs_count=7&theme=react"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&langs_count=7&theme=react"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Baroni&theme=gruvbox&row=1&column=7" alt="Gabriel Baroni's Trophies" />
 </p>
 
 ---
 
-<!-- LINGUAGENS E FERRAMENTAS -->
-## 🛠️ Languages ​​and Tools
+## 🛠️ Linguagens e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FlutterFlow-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CreateJS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-
-  <!-- Adicione mais badges de tecnologias que você utiliza -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,cpp,firebase,mysql,supabase,html,css,js,express,nodejs,github,git&perline=8" />
+  </a>
 </p>
 
 ---
 
-<!-- PROJETOS EM DESTAQUE -->
+## ✨ Meus Projetos em Destaque
+<p align="center">
+  <a href="https://github.com/Gabriel-Baroni/NOME-DO-PROJETO-1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Baroni&repo=NOME-DO-PROJETO-1&theme=react" />
+  </a>
+  <a href="https://github.com/Gabriel-Baroni/NOME-DO-PROJETO-2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel-Baroni&repo=NOME-DO-PROJETO-2&theme=react" />
+  </a>
+</p>
 
-<!-- CONTATOS E REDES SOCIAIS -->
-## 📫 How to find me
+---
+
+## 📫 Como me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-de-paula-baroni-32b55a2b5/">
+  <a href="https://www.linkedin.com/in/gabriel-de-paula-baroni-32b55a2b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:gdepaulabaroni@gmail.com">
+  <a href="mailto:gdepaulabaroni@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Gabriel-Baroni">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario-github&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 
