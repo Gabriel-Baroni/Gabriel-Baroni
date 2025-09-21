@@ -13,7 +13,7 @@
 - 🎯 **Objective:** Becoming a great developer and being able to make a living from coding one day.
 
   <br>
- ```text
+ ```
  We are a way for the cosmos to know itself.
  ```
  <p align="right"><i>– Carl Sagan</i></p>
