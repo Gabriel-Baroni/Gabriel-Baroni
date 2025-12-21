@@ -7,9 +7,9 @@
 ---
 
 ## ✋ About Me
-- 📖 **Education:** Computer Technician Integrated into High School at IFSP - Jacareí Campus (2022-Present).
+- 📖 **Education:** Computer Technician Integrated into High School at IFSP - Jacareí Campus (2022-2025).
 - 🗞️ **Certificates:** [Click here to see my certificates](https://github.com/Gabriel-Baroni/Certificados-)
-- 🔍 **Study focus:** Improving general knowledge of software engineering, databases, artificial intelligence and web development.
+- 🔍 **Study focus:** Solidify the fundamentals of programming logic.
 - 🎯 **Objective:** Becoming a great developer and being able to make a living from coding one day.
 
   <br>
