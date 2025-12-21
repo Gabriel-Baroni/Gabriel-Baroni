@@ -27,10 +27,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&langs_count=7&theme=react"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-Baroni&theme=nord&row=1&column=7&margin-w=15" alt="Gabriel Baroni's Trophies" />
-</p>
-
 ---
 
 ## 🛠️ Languages and Tools
