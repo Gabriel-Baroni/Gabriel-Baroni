@@ -9,8 +9,8 @@
 ## ✋ About Me
 - 📖 **Education:** Computer Technician Integrated into High School at IFSP - Jacareí Campus (2022-2025).
 - 🗞️ **Certificates:** [Click here to see my certificates](https://github.com/Gabriel-Baroni/Certificates)
-- 🔍 **Study focus:** Solidify the fundamentals of programming logic.
-- 🎯 **Objective:** Becoming a great developer and being able to make a living from coding one day.
+- 🔍 **Study focus:** To consolidate my fundamentals in programming logic, software architecture, and computer networks.
+- 🎯 **Objective:** Solving various types of problems using my knowledge of technology.
 
   <br>
  ```
@@ -33,7 +33,7 @@
 ## 🛠️ Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,cpp,firebase,mysql,supabase,html,css,bootstrap,js,express,nodejs,github,git&perline=8" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,cpp,firebase,mysql,supabase,html,css,bootstrap,js,express,nodejs,github,git&perline=8"/>
   </a>
 </p>
 
