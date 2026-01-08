@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?theme=react&size=25&center=true&vCenter=true&duration=6500&lines=Welcome_To_My_GitHub.py;Guy_Who_Love_To_Code.js;Always_learning.dart" alt="Typing SVG">
 </p>
 
----
+--- 
 
 ## ✋ About Me
 - 📖 **Education:** Computer Technician Integrated into High School at IFSP - Jacareí Campus (2022-2025).
