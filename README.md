@@ -24,8 +24,8 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-5k1dikpjt-gabriel-baronis-projects.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=react&include_all_commits=true&count_private=true&v=3"/>
-  <img height="180em" src="https://github-readme-stats-5k1dikpjt-gabriel-baronis-projects.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&langs_count=7&theme=react&v=3"/>
+  <img height="180em" src="https://github-readme-stats-git-main-gabriel-baronis-projects.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=react&include_all_commits=true&count_private=true&update=hoje"/>
+  <img height="180em" src="https://github-readme-stats-git-main-gabriel-baronis-projects.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&langs_count=7&theme=react&update=hoje"/>
 </p>
 
 ---
