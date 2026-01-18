@@ -31,11 +31,57 @@
 ---
 
 ## 🛠️ Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,python,flask,cpp,firebase,mysql,supabase,html,css,bootstrap,js,express,nodejs,github,git&perline=8"/>
-  </a>
-</p>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">🐍 <b>Python</b></td>
+    <td align="center">🟡 <b>JavaScript</b></td>
+    <td align="center">💙 <b>Dart</b></td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,flask"/></a>
+      <br>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" width="48" height="48" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;" />
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,nodejs,expressjs"/></a>
+      <br>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1ejy_Fcrj4OphKdhEQlHKXS7i3xxnNy5_RQ&s" width="48" height="48" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;" />
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart"/></a>
+      <br>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKl6XwtK1SOw0KTHTDIHG8_Z09TRBNlhz--w&s" width="48" height="48" style="border-radius: 50%; background-color: #1A1A1A; padding: 5px;" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">🌐 <b>Web UI / Basics</b></td>
+    <td align="center">🗄️ <b>Database</b></td>
+    <td align="center">🕹️ <b>Version Control</b></td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,github"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -45,6 +91,9 @@
     <img align="center" src="https://github-readme-stats-git-main-gabriel-baronis-projects.vercel.app/api/pin/?username=Gabriel-Baroni&repo=Bem-Aprendi&theme=react&v=FINAL_VERSION" />
   </a>
 </p>
+  
+</div>
+
 
 ---
 
