@@ -7,7 +7,9 @@
 ---  
 
 ## ✋ About Me 
-- 📖 **Education:** Computer Technician Integrated into High School at IFSP - Jacareí Campus (2022-2025).
+- 📖 **Education:** <br>
+  - `IT Technician Integrated into High School at IFSP - Jacareí Campus (2022-2025)` <br>
+  - `Interdisciplinary Bachelor's Degree in Science and Technology at UNIFESP - São José dos Campos Campus (2026-2028)`
 - 🗞️ **Certificates:** [Click here to see my certificates](https://github.com/Gabriel-Baroni/Certificates)
 - 🔍 **Study focus:** To consolidate my fundamentals in programming logic, software architecture, and computer networks.
 - 🎯 **Objective:** Solving various types of problems using my knowledge of technology.
