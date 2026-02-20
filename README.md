@@ -6,7 +6,7 @@
 
 ---  
 
-## ✋ About Me 
+## 🖖 About Me 
 - 📖 **Education:** <br>
   - `IT Technician Integrated into High School at IFSP - Jacareí Campus (2022-2025)` <br>
   - `Interdisciplinary Bachelor's Degree in Science and Technology at UNIFESP - São José dos Campos Campus (2026-2028)`
@@ -15,7 +15,7 @@
 - 🎯 **Objective:** Solving various types of problems using my knowledge of technology.
 
   <br>
- ```
+ ```/
  We are a way for the cosmos to know itself.
  ```
  <p align="right"><i>– Carl Sagan</i></p>
