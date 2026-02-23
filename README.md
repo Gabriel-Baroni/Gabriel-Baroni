@@ -90,8 +90,6 @@
 
 ---
 
----
-
 ## ✨ My Featured Projects
 
 <p align="center">
