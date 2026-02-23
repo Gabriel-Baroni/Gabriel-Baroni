@@ -26,9 +26,11 @@
 
 ## 📊 My GitHub Stats
 
+<p align="center">  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&theme=react&hide=jupyter%20notebook" />
+</p>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Baroni&layout=compact&theme=react&hide=jupyter%20notebook"/>
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gabriel-Baroni&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
@@ -88,12 +90,17 @@
 
 ---
 
+---
+
 ## ✨ My Featured Projects
+
 <p align="center">
-  <a href="https://github.com/Gabriel-Baroni/Bem-Aprendi">
-    <img align="center" src="https://github-readme-stats-git-main-gabriel-baronis-projects.vercel.app/api/pin/?username=Gabriel-Baroni&repo=Bem-Aprendi&theme=react&v=FINAL_VERSION" />
+  <a href="https://github.com/Papuguinho/Papuguinho-diagrams">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Papuguinho&repo=Papuguinho-diagrams&theme=react&show_owner=true" />
   </a>
 </p>
+
+---
   
 </div>
 
