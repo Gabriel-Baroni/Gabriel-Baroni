@@ -105,8 +105,6 @@
 </div>
 
 
----
-
 ## 📫 How to Find Me
 
 <p align="center">
