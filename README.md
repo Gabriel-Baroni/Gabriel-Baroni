@@ -5,7 +5,7 @@
 </p>
 
 ---  
-
+ 
 ## 🖖 About Me 
 - 📖 **Education:** <br>
   - `IT Technician Integrated into High School at IFSP - Jacareí Campus (2022-2025)` <br>
